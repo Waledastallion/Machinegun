@@ -1,0 +1,47 @@
+.div1{
+    background-color: aliceblue;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.div2{
+    background-color: white;
+    padding: 20px;
+}
+.div3{
+    background-color: aqua;
+    padding: 20px;
+    color: white;
+}
+.div4{
+    background-color: aquamarine;
+    padding: 20px;
+}
+.join{
+    color: blue;
+    font-size: larger;
+}
+.hassle{
+    color: goldenrod;
+}
+.mee{
+    color: rgb(250, 237, 237, 0.767);
+}
+.complete{
+    color: whitesmoke;
+    background-color: green;
+    padding-left: 70px;
+    padding-right: 70px;
+    box-shadow: 2px 4px 5px;
+    border-radius: 10px;
+}
+.fullbody{
+    background-color: red;
+}
+.dollar{
+    font-size: x-large;
+}

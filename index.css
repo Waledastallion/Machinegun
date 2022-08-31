@@ -1,0 +1,124 @@
+
+p{
+    color: chocolate;
+}
+p{
+    color: green;
+}
+h{
+    font-family: fantasy;
+    background-color: cyan;
+    border: darkblue;
+}
+div{
+    text-align: center;
+    width: 20%;
+    margin-left: 40%;
+    padding: 10px;
+}
+.firstheader{
+    margin: 200px;
+}
+.paragraph{
+    color: purple;
+}
+
+#thanks{
+    font-size: 20px;
+    color: rgb(57, 15, 97);
+}
+table{
+    border: 2px solid;
+}
+.anothertable{
+    background-color: rgb(133, 12, 12);
+}
+.tabular{
+    border-radius: 22px;
+}
+.para{
+    background-color: rgb(122, 69, 122);
+    display: inline;
+}
+
+.mother{
+    background-color: blueviolet;
+    width: 60%;
+    display: flex;
+    
+}
+.child_1{
+    background-color: turquoise;
+    width: 40%;
+}
+.child_2{
+    background-color: aqua;
+    width: 40%;
+}
+.newdiv{
+    width: 60%;
+    background-color: blueviolet;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+}
+.div1{
+    width: 20%;
+    background-color: brown;
+}
+.div2{
+width: 20%;
+background-color: rgb(122, 69, 122);
+}
+.div3{
+    width: 20%;
+    background-color: rgb(133, 12, 12);
+}
+.div4{
+    width: 20%;
+    background-color: thistle;
+}
+.div5{
+    width: 20%;
+    background-color: salmon;
+}
+.div6{
+    width: 20%;
+    background-color: aquamarine;
+}
+.div7{
+    width: 20%;
+    background-color: coral;
+}
+.div8{
+    width: 20%;
+    background-color: darkgreen;
+}
+.div9{
+    width: 20%;
+    background-color: gold;
+}
+.div10{
+    width: 20%;
+    background-color: magenta;
+}
+.div11{
+    width: 20%;
+    background-color: indianred;
+}
+.div12{
+    width: 20%;
+    background-color: indigo;
+}
+.first{
+    border: 3px solid;
+    padding: 4px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+}
+
+child{
+    background-color: cyan;
+    border: 2px dashed;
+}

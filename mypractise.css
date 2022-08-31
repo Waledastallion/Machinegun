@@ -1,0 +1,43 @@
+.div1{
+    background-color: rgb(84, 84, 95);
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.div2{
+    background-color: whitesmoke;
+    padding: 30px;
+}
+.div3{
+    background-color: aqua;
+    padding: 80px;
+    color: azure;
+    width: 50%;
+}
+.div4{
+    background-color: aquamarine;
+    color: blueviolet;
+    padding: 40px;
+    width: 50%;
+}
+.join{
+    color: darkblue;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.days{
+    color: chartreuse;
+}
+.dollar{
+    font-size: x-large;
+}
+.lastdiv{
+    display: flex;
+    
+}
+.complete{
+    color: ;
+}

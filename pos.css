@@ -1,0 +1,22 @@
+.rel{
+    position: relative;
+    background-color: blue;
+    height: 250px;
+    width: 250px;
+    padding-left: 120px;
+
+}
+
+.abs{
+    background-color: aqua;
+    height: 50px;
+    position: absolute;
+    bottom: 70px;
+    padding-left: 100px;
+
+
+}
+.fix{
+    position: fixed;
+    left: 85%;
+}

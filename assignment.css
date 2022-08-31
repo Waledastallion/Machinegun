@@ -1,0 +1,18 @@
+.div1{
+    background-color: whitesmoke;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-top: 30px;
+    border-radius: 30px;
+
+}
+.div2{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+
+}
+
+img{
+    width: 100px;
+}
